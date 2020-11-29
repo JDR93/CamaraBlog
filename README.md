@@ -1,2 +1,2 @@
 # CamaraBlog
-Este es mi primer repositorio creando en GitHub
+Este es mi primer repositorio creado en GitHub
