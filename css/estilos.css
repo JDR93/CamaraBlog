@@ -60,6 +60,13 @@ body
 	font-size: 15px;
 }
 
+#container h3
+{
+	color: #6D4C41;
+	font-size: 15px;
+	text-align: left;
+}	
+
 #container img
 {
 	text-align: right;
